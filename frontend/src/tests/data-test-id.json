@@ -1,0 +1,16 @@
+{
+  "pages": [
+    {
+      "home": "heading-home"
+    },
+    {
+      "bmi-calculator": "heading-bmi-calculator"
+    },
+    {
+      "about": "heading-about"
+    },
+    {
+      "settings": "heading-settings"
+    }
+  ]
+}

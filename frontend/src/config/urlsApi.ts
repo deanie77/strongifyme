@@ -1,0 +1,5 @@
+export const URL_API_EXERCISE_NAMES = 'https://example.com'
+export const URL_API_EXERCISE_VIDEOS = 'https://example.com'
+export const URL_API_EXERCISE_IMAGES = 'https://example.com'
+export const URL_API_MUSCLE_GROUPS = 'http://example.com'
+export const URL_API_MUSCLE_IMAGES = 'http://example.com'

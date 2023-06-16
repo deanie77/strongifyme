@@ -1,0 +1,14 @@
+export const ROUTE_HOME = '/' // should be website home page
+export const ROUTE_APP = '/app' // should be app dashboard
+export const ROUTE_BMI_CALCULATOR = '/bmi-calculator'
+export const ROUTE_ABOUT = '/about'
+export const ROUTE_SETTINGS = '/settings'
+export const ROUTE_SIGN_UP = '/sign/up'
+export const ROUTE_SIGN_IN = '/sign/in'
+export const ROUTE_SIGN_OUT = '/sign/out'
+export const ROUTE_PROFILE = '/profile'
+export const ROUTE_NOT_FOUND = '/404'
+export const ROUTE_RESET_PASSWORD = '/reset-password'
+export const ROUTE_NEW_PASSWORD = '/new-password'
+export const ROUTE_VERIFY_EMAIL = '/verify-email'
+export const ROUTE_VERIFY_EMAIL_SUCCESS = '/verify-email-success'
